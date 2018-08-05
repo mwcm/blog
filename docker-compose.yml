@@ -1,6 +1,6 @@
 version: '3.2'
 services:
-  nginx:
+  gatsby:
     build:
       context: .
     networks:
@@ -8,8 +8,8 @@ services:
       - default
     labels:
       - "traefik.enable=true"
-      - "traefik.backend=nginx"
-      - "traefik.frontend.rule=Host:mwcm.ca"
+      - "traefik.backend=gatsby"
+      - "traefik.frontend.rule=Host:blog.mwcm.ca"
       - "traefik.docker.network=reverseproxy_reverseproxy"
 
 networks:
