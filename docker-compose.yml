@@ -3,6 +3,7 @@ services:
   gatsby:
     build:
       context: .
+    command: ../entry.sh stage 
     networks:
       - reverseproxy
       - default
