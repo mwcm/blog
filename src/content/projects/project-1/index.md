@@ -16,7 +16,7 @@ Pitcher
 
 <img width="712" alt="Screen Shot 2022-11-14 at 8 09 32 PM" src="https://user-images.githubusercontent.com/2433319/201812501-af784d53-5a6d-4c94-af5d-1ffb2fc8cb11.png">
 
-### Installation
+## Installation
 ```
 1. Use git to clone this repo, or download it as a ZIP using the "Clone or download" button & unzip
 2. Open your terminal of choice
@@ -24,7 +24,7 @@ Pitcher
 4. pip install -r ./requirements.txt
 ```
 
-### Usage:
+## Usage:
 ```
 python pitcher_cli.py --input-file ./input.wav --st -4 --output-file ./output.wav
 ```
@@ -37,7 +37,7 @@ You can now also run a simple gui version using the command:
 The [releases page](https://github.com/mwcm/pitcher/releases/tag/0.5.2) also has binary files for the GUI (.exe and .app).
 
 
-### Options:
+## Options:
 
 ```
 --st                        - number of semitones to shift pitch by,                 int,    required
