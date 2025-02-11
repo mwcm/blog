@@ -2,7 +2,7 @@
 title: "Pitcher"
 description: "Python emulation of the SP-1200's signal chain and pitch shifting"
 date: "02/10/2025"
-demoURL: ""
+demoURL: "https://soundcloud.com/user-320158268/sets/pitcher-examples"
 repoURL: "https://github.com/mwcm/pitcher"
 ---
 
