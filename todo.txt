@@ -1,0 +1,21 @@
+general todo:
+-------------
+
+- less boring color scheme!
+	- where to edit?
+
+- use vercel/og for generating fb and twitter cards, right now is using
+	"/blog-placeholder-1.jpg" it looks like (in head.astro)
+
+- animated text emoji like https://dhruvkb.dev/
+- some kind of more complicated css animation somewhere some day
+
+- thanks for visiting in footer
+
+
+first article
+-------------
+
+- use napkin ai to generate graphics
+
+- bring in notebook notes

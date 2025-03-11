@@ -1,7 +1,7 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "mwcm.ca",
+  TITLE: "@mwcm",
   DESCRIPTION: "Personal projects and notes",
   EMAIL: "mwcmitchell@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
